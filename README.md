@@ -6,3 +6,4 @@
   - Files named 'runwith...' should be run in a different window than and before other files in each assignment folder.
 - Python version: 2.7.12
 - Malmo download link: https://github.com/Microsoft/malmo
+
